@@ -8,6 +8,6 @@ Nous sommes le groupe 2 de la promotion SENSEI de SAYNA, on est composé de :
   
   RATSIMBAZAFY Marko William:https://github.com/
   
-  QIN Dylan:https://github.com/
+  Qin Dylan:https://github.com/Tour-dev-maker
   
   RAMILIARIMANANA Karl Brandt:https://github.com/KarlBrandt
